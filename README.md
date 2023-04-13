@@ -55,8 +55,9 @@ Portfolio Webpage Completed by Myra Khatoon
 
 ## Review
 
-* url of github repo
-* url of deployed application
+* url of github repo (https://github.com/Myra-k/week-2-Portfolio.git)
+
+* url of deployed application 
 
 ## License
 
