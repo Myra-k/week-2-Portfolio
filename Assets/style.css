@@ -19,7 +19,7 @@ body, html {
 }
 */
 
-/* Hero img */
+/* Hero img of me */
 
 .hero {
     height: 100vh; 
@@ -61,7 +61,7 @@ nav ul li a:hover{
     transition: .4s;
 }
 
-/* Content section  */
+/* Content section/my name etc  */
 
 .content{
     margin-top: 17%;
@@ -107,7 +107,7 @@ h4{
     background-color: purple;
 }
 
-/* About section */
+/* About section/short description of me */
 
 .About{
     padding: 100px 0px;
